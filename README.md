@@ -18,3 +18,8 @@ Run program
 ``` shell
 electron app.js
 ```
+
+You may also need to install libgconf using
+``` shell
+apt-get install libgconf-2-4
+```
